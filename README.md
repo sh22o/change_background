@@ -1,2 +1,3 @@
 # change_background
-simple task by js 
+ by js 
+ simple task to change bacground task 
